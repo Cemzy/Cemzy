@@ -319,33 +319,3 @@
 </article>
   </div>
 
-    </div>
-
-  
-
-  <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
-    <summary data-hotkey="l" aria-label="Jump to line" role="button"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line" role="dialog" aria-modal="true">
-      <!-- '"` --><!-- </textarea></xmp> --><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line…" aria-label="Jump to line" autofocus="">
-        <button type="submit" class="btn" data-close-dialog="">Go</button>
-</form>    </details-dialog>
-  </details>
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-</div>
