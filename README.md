@@ -1,12 +1,8 @@
-<div class="Box mt-3 position-relative
-      ">
+<div class="Box mt-3 position-relative">
       
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      93 lines (65 sloc)
-      <span class="file-info-divider"></span>
-    4.59 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
