@@ -1,4 +1,7 @@
-### 
-<image>https://media.discordapp.net/attachments/618370097744183296/814876468848230420/ezgif-3-8b7794108754.gif</image>
-🌱 I’m currently learning everything 
-📣 Currently Projects: Alita Discord Bot
+<h1>Hi there, I'm Bilgehan - aka Bgstatic</h1>
+
+I'm a Computer Science and Engineering Student
+👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+📚 I’m currently learning everything about Frontend and Backend technologies 😅
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+⚡ Fun fact: I love to play pool and snooker 🎱.
