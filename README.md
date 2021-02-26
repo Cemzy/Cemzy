@@ -11,20 +11,6 @@
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
-    <div class="BtnGroup">
-      <a href="/durgeshsamariya/awesome-github-profile-readme-templates/raw/master/Bgstatic.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/durgeshsamariya/awesome-github-profile-readme-templates/blame/master/Bgstatic.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
-    </div>
-
-    <div>
-          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform" data-platforms="windows,mac" href="https://desktop.github.com" aria-label="Open this file in GitHub Desktop" data-ga-click="Repository, open with desktop">
-              <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
-          </a>
-
-          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/Bgstatic.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cqCFL8cXNof7Kl1x3aSyI0g2eepvMiZBdf1LhsIIGBhdPIcOruGA4q9C7FOpyp9mLEfyEi4XS5IsxgkLOo6qhA==">
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit" aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with="">
-              <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
-            </button>
 </form>
           <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="/durgeshsamariya/awesome-github-profile-readme-templates/delete/master/Bgstatic.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y0Q/e68i+rpCU2Uk+pvWSt5lnw9W7zjG3gSGzi9dgovURHalb0FZ7MA5bqS5iy2lMh/Lm7Rb3P+NUSpfj7Wj6w==">
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit" aria-label="Fork this project and delete the file" data-disable-with="">
@@ -91,4 +77,4 @@
 </article>
   </div>
 
-    </div>
+   
